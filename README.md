@@ -1,4 +1,4 @@
-# Hi, I'm Harshad Ingle 
+# Hi, I'm Harshad Ingle
 
 ### Developer building practical web applications and learning full-stack development.
 
@@ -6,7 +6,7 @@ I enjoy turning ideas into working applications, improving user interfaces, and 
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### CareerGuide-Ai
 An AI-powered career suggestion app that uses Google's Gemini API to provide career and skill-development guidance.
@@ -69,4 +69,4 @@ Backend development and building more complete full-stack applications.
 
 ---
 
-> **Build. Learn. Improve. Repeat.**
+> Build. Learn. Improve. Repeat.
